@@ -164,6 +164,8 @@ This project improved my understanding of:
 ## SQL Query Example
 
 ![SQL Query](screenshots/query1.png)
+![SQL Query](screenshots/query2.png)
+![SQL Query](screenshots/query3.png)
 
 ---
 
