@@ -159,14 +159,6 @@ This project improved my understanding of:
 - Business insight generation
 - Advanced SQL concepts
 
--  📸 Project Screenshots
-
-## SQL Query Example
-
-![SQL Query](Query1.png)
-![SQL Query](Query2.png)
-![SQL Query](Query3.png)
-
 ---
 
 # 👨‍💻 Author
